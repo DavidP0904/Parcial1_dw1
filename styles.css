@@ -1,0 +1,21 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+    h2{ 
+    background-color: #07e607;
+    text-align: center;
+}
+div {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+h6
+{
+    background-color: #dd0202;
+    text-align: center;
+    height: max-content;
+}
